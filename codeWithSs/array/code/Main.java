@@ -5,6 +5,7 @@ class Main {
   // Default constructor
  Main() {
       model = "Unknown";
+      year = 0;
       System.out.println("Model: " + model + ", Year: " + year);
   }
 
