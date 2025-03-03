@@ -1,4 +1,4 @@
-// Write a program to find the factorialof any number entered by the user
+// Write a program to find the factorial of any number entered by the user
 
 // public package PracticeQuesions;
 import java.util.Scanner;
