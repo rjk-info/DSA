@@ -1,3 +1,5 @@
+// package MyCode.array.Part1;
+
 public class _9_Total_Sub_Array {
     public static void TotalPairs(int num[]) {
         int tsA = 0 ;

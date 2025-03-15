@@ -1,6 +1,6 @@
 // package MyCode.array.Part1;
 
-public class _41_Liner_seacrh_string {
+public class _4_1_Liner_seacrh_string {
 
     public static int MenuSearch(String Menu[] , String traget){
         for(int i = 0 ; i<Menu.length ; i++) {
