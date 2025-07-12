@@ -1,3 +1,10 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.quickSuggestions": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.suggest.showWords": true,
+    "editor.suggest.showSnippets": true,
+    "editor.suggest.showMethods": true,
+    "editor.suggest.showFunctions": true,
+    "github.copilot.enable": false
 }
