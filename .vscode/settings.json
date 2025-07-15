@@ -1,6 +1,10 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
-    "editor.quickSuggestions": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
     "editor.suggestOnTriggerCharacters": true,
     "editor.suggest.showWords": true,
     "editor.suggest.showSnippets": true,
