@@ -14,3 +14,4 @@ public class _3Factorial {
         System.out.println( fact(n)); 
     }
 }
+
